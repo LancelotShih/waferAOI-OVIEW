@@ -1,0 +1,16 @@
+test1 - fail
+test2 - fail
+test3 - 1407 defects detected, thickness 2, thresh 100
+test4 - 1407 defects detected, thickness 2, thresh 100
+test5 - 1407 defects detected, thickness 1, thresh 100
+test6 - 1425 defects detected, thickness 1, thresh 50
+test7 - 1386 defects detected, thickness 1, thresh 150
+test8 - 1295 defects detected, thickness 1, thresh 220
+test9 - 1239 defects detected, thickness 1, thresh 254
+test10 - 1222 defects detected, thickness 1, thresh 300
+test11 - 1020 defects detected, thickness 1, thresh 500
+test12 - 145 defects detected, thickness 1, thresh 750
+test13 - 872 defects detected, thickness 1, thresh 600
+test14 - 707 defects detected, thickness 1, thresh 220 (RETR_EXTERNAL)
+test15 - 682 defects detected, thickness 1, thresh () (RETR_EXTERNAL)
+test16 - 748 defects detected, thickness 1, thresh () (RETR_EXTERNAL)

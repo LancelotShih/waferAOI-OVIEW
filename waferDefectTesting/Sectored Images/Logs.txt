@@ -1,0 +1,3 @@
+pretest8 - made with cropped test10.png in cropped images
+pretest9 - made with cropped test12.png in cropped images
+pretest10 - made with cropped test13.png in cropped images
